@@ -1,6 +1,6 @@
 👋 Hi, my name is
 
-# Aleksey Koryakin
+# Aleksey Koriakin
 
 🥟 My social links:
 - [Instagram](https://www.instagram.com/alexeycorr)
